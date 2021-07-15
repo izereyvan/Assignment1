@@ -1,9 +1,10 @@
+package greetings;
 import java.util.Scanner;
 
-public class day12 {
+public class Day12 {
 
 	public static void main(String[] args) {
-		Scanner input = new scanner (System. in);
+		Scanner input = new Scanner (System. in);
 		System.out.println("Enter a:");
 		double a = input.nextDouble();
 		System.out.println("Enter u: ");
